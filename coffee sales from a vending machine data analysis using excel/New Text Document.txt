@@ -1,0 +1,9 @@
+Tasks
+Time Series Exploratory Data Analysis
+Next day/week/month sales
+Specific customer purchases
+
+total sales
+most pay method used by customer
+most orderd coffee type
+most days and time order in
